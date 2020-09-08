@@ -1,0 +1,15 @@
+.div1 {
+  background-color: blueviolet;
+  font-size: 50px;
+  display: inline-block;
+}
+
+.div2 {
+  background-color: royalblue;
+  display: inline;
+}
+
+.div3 {
+  background-color: darkblue;
+  display: inline-block;
+}

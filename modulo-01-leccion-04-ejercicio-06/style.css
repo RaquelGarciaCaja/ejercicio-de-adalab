@@ -1,0 +1,25 @@
+header {
+  background-color: tomato;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+.main {
+  text-align: center;
+  background-color: yellow;
+}
+
+.asideizquierda {
+  background-color: blue;
+}
+
+.asidederecha {
+  background-color: pink;
+}
+
+footer {
+  background-color: lightgreen;
+  text-align: center;
+}
